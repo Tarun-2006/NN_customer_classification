@@ -43,8 +43,8 @@ Save the trained model, export it if needed, and deploy it for real-world use.
 
 ## PROGRAM
 
-### Name: Thilakeswaran KP
-### Register Number: 212223230232
+### Name: Tarun S
+### Register Number: 212223040226
 
 ```python
 class PeopleClassifier(nn.Module):
@@ -98,17 +98,20 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 ### Confusion Matrix
 
-![Screenshot 2025-03-23 133313](https://github.com/user-attachments/assets/10ec5661-8de7-4d4c-8f28-cbedcacd69f9)
+![Screenshot 2025-03-24 111008](https://github.com/user-attachments/assets/e4d51f62-fa8b-47b2-9c7e-dc3854610e09)
+
 
 
 ### Classification Report
 
-![image](https://github.com/user-attachments/assets/52abbc2a-a4e0-4e68-a96e-5f7cd9d881a8)
+![image](https://github.com/user-attachments/assets/41aa16a3-1f20-4a85-b06b-e58cda5fd7f7)
+
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/user-attachments/assets/00e2c858-4aa2-4d5d-a559-4769d46e240f)
+![Screenshot 2025-03-24 111211](https://github.com/user-attachments/assets/feee8c77-98f9-4d78-9863-cdea06ff352f)
+
 
 ## RESULT
 Thus a neural network classification model for the given dataset is executed successfully.
